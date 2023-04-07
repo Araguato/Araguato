@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Araguato
-- 👀 I’m interested in ... Code PHP, SQL
-- 🌱 I’m currently learning ... PHP, SQL
+- 👀 I’m interested in ... Code Python, SQL
+- 🌱 I’m currently learning ...Python, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... thomas@schiwatsch.de
 
